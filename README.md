@@ -1,2 +1,3 @@
 # WBro
-Whatsapp BROadcast Software
+Whatsapp BROadcast Software using Puppeteer
+
