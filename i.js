@@ -36,7 +36,7 @@ import puppeteer from "puppeteer"
 
   //await page.$eval('::-p-xpath(//html/body/center/table[1]/tbody/tr[2]/td[1])', el => el.click());
   
-  browser.close();
+  
 //}
 
   
